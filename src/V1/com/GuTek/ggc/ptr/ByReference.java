@@ -2,7 +2,7 @@
     Author: .GuTeK <dev@gutcode.pl>
     Project: GUT-ENGINE [MINECRAFT ENGINE]
     Price: WEBSITE
-    Resources: 11/6780
+    Resources: 12/6780
     Data: 29.02.2024
     Contact Discord: .GuTeK#0001
     Contact e-mail: dev@gutcode.pl
